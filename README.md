@@ -1,7 +1,7 @@
-# **David's HTMl Table Cheatsheet**
+# **David's HTML Table Cheat Sheet**
 
 ### **Introduction**
-This project is based off of a Code Academy Project using knowledge of Tables. I added additional CSS and personal color/style choices.
+This project is inspired by a *Code Academy* project using my knowledge of Tables. I added additional CSS and personal color/style choices.
 - [](#)
 
     - [**Technologies**](#technologies)
@@ -19,7 +19,7 @@ This project is based off of a Code Academy Project using knowledge of Tables. I
 
   
 ### **Project status**
-I want to add CSS text-decortion underline to anchor link! Then project will be completed
+Completed
 
 ### **Other information**
-CodeAcademy Full Stack Off-Site Project
+**CodeAcademy Full Stack** Off-Site Project
