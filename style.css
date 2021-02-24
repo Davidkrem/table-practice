@@ -1,0 +1,84 @@
+body,
+h1,
+table {
+  text-align: center;
+  background-color: rgb(103, 221, 162);
+}
+
+h1 {
+  font-size: 35px;
+  font-family: monospace;
+  color: rgb(10, 10, 10);
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th {
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 24px;
+  color: rgb(10, 10, 10);
+}
+
+.tag {
+  font-size: 12px;
+  font-family: Lucida Console, Courier, monospace;
+  color: rgb(13, 14, 13);
+  background-color: silver;
+  opacity: 0.7;
+}
+
+td {
+  color: rgb(7, 7, 7);
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+}
+td:hover {
+  background-color: grey;
+}
+
+td,
+.tag {
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+h3 {
+  font-size: 35px;
+  font-family: monospace;
+  color: rgb(12, 12, 12);
+  font-weight: bold;
+  text-decoration-thickness: 1em;
+  text-decoration: black;
+  text-underline-offset: -20px;
+  text-decoration-style: double;
+}
+
+h4 {
+  font-size: 18px;
+  font-family: monospace;
+  color: rgb(26, 24, 34);
+}
+.tag:hover {
+  background-color: snow;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-thickness: 4px;
+  text-underline-position: auto;
+  text-decoration-color: rgb(16, 133, 78);
+}
