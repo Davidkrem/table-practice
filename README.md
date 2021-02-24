@@ -1,7 +1,7 @@
 # **David's HTML Table Cheat Sheet**
 
 ### **Introduction**
-This project is inspired by a *Code Academy* project using my knowledge of Tables. I added additional CSS and personal color/style choices.
+This work is inspired by a *Code Academy* project using my knowledge of Tables. I added additional CSS and personal color/style choices.
 - [](#)
 
     - [**Technologies**](#technologies)
