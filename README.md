@@ -7,7 +7,7 @@ This work is inspired by a *Code Academy* project using my knowledge of Tables. 
     - [**Technologies**](#technologies)
     - [**Sources**](#sources)
     - [**Project status**](#project-status)
-    - [**Other information**](#other-information)
+    - [**View Project**](#other-information)
 
 ### **Technologies**
 
@@ -21,5 +21,5 @@ This work is inspired by a *Code Academy* project using my knowledge of Tables. 
 ### **Project status**
 Completed
 
-### **Other information**
-**CodeAcademy Full Stack** Off-Site Project
+### **View Project**
+https://davidkrem.github.io/table-practice/
